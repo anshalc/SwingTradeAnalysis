@@ -1,7 +1,7 @@
 # Swing Trade Analysis
 This repository analyzes the impact of daily news on mid-cap stock prices and explores swing trading opportunities. It includes a data pipeline for extracting and processing stock, news, and Reddit data, and uses AI models to predict stock movements and identify profitable trades.
 
-## Project Title: Analysis of Daily Stock Prices, News Impact, and Swing Trading Opportunities
+## Title: Analysis of Daily Stock Prices, News Impact, and Swing Trading Opportunities
 
 ### Objective:
 The primary objective of this project is to analyze the effect of daily news on stock prices, focusing specifically on mid-cap stocks with a market capitalization between $2 billion and $10 billion. The project aims to determine the impact of news on stock price movements, assess the duration of the news effect, and explore swing trading opportunities. Additionally, the project will investigate the relationship between Reddit posts and news, determining whether news drives Reddit discussions or vice versa.
