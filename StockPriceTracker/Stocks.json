@@ -1,0 +1,2838 @@
+[
+    {
+        "ticker": "ATR",
+        "url": "https://finance.yahoo.com/quote/ATR/"
+    },
+    {
+        "ticker": "PSN",
+        "url": "https://finance.yahoo.com/quote/PSN/"
+    },
+    {
+        "ticker": "CRL",
+        "url": "https://finance.yahoo.com/quote/CRL/"
+    },
+    {
+        "ticker": "VNO-PL",
+        "url": "https://finance.yahoo.com/quote/VNO-PL/"
+    },
+    {
+        "ticker": "ALB",
+        "url": "https://finance.yahoo.com/quote/ALB/"
+    },
+    {
+        "ticker": "SNX",
+        "url": "https://finance.yahoo.com/quote/SNX/"
+    },
+    {
+        "ticker": "GME",
+        "url": "https://finance.yahoo.com/quote/GME/"
+    },
+    {
+        "ticker": "QGEN",
+        "url": "https://finance.yahoo.com/quote/QGEN/"
+    },
+    {
+        "ticker": "TWLO",
+        "url": "https://finance.yahoo.com/quote/TWLO/"
+    },
+    {
+        "ticker": "AEG",
+        "url": "https://finance.yahoo.com/quote/AEG/"
+    },
+    {
+        "ticker": "GMED",
+        "url": "https://finance.yahoo.com/quote/GMED/"
+    },
+    {
+        "ticker": "VNO-PM",
+        "url": "https://finance.yahoo.com/quote/VNO-PM/"
+    },
+    {
+        "ticker": "BSAC",
+        "url": "https://finance.yahoo.com/quote/BSAC/"
+    },
+    {
+        "ticker": "FRT",
+        "url": "https://finance.yahoo.com/quote/FRT/"
+    },
+    {
+        "ticker": "FBIN",
+        "url": "https://finance.yahoo.com/quote/FBIN/"
+    },
+    {
+        "ticker": "TPR",
+        "url": "https://finance.yahoo.com/quote/TPR/"
+    },
+    {
+        "ticker": "TKO",
+        "url": "https://finance.yahoo.com/quote/TKO/"
+    },
+    {
+        "ticker": "ARMK",
+        "url": "https://finance.yahoo.com/quote/ARMK/"
+    },
+    {
+        "ticker": "RDDT",
+        "url": "https://finance.yahoo.com/quote/RDDT/"
+    },
+    {
+        "ticker": "TTC",
+        "url": "https://finance.yahoo.com/quote/TTC/"
+    },
+    {
+        "ticker": "MHK",
+        "url": "https://finance.yahoo.com/quote/MHK/"
+    },
+    {
+        "ticker": "GL",
+        "url": "https://finance.yahoo.com/quote/GL/"
+    },
+    {
+        "ticker": "CNM",
+        "url": "https://finance.yahoo.com/quote/CNM/"
+    },
+    {
+        "ticker": "EHC",
+        "url": "https://finance.yahoo.com/quote/EHC/"
+    },
+    {
+        "ticker": "BIRK",
+        "url": "https://finance.yahoo.com/quote/BIRK/"
+    },
+    {
+        "ticker": "APG",
+        "url": "https://finance.yahoo.com/quote/APG/"
+    },
+    {
+        "ticker": "GS-PC",
+        "url": "https://finance.yahoo.com/quote/GS-PC/"
+    },
+    {
+        "ticker": "PSO",
+        "url": "https://finance.yahoo.com/quote/PSO/"
+    },
+    {
+        "ticker": "BIO",
+        "url": "https://finance.yahoo.com/quote/BIO/"
+    },
+    {
+        "ticker": "PAYC",
+        "url": "https://finance.yahoo.com/quote/PAYC/"
+    },
+    {
+        "ticker": "STN",
+        "url": "https://finance.yahoo.com/quote/STN/"
+    },
+    {
+        "ticker": "ORI",
+        "url": "https://finance.yahoo.com/quote/ORI/"
+    },
+    {
+        "ticker": "EVR",
+        "url": "https://finance.yahoo.com/quote/EVR/"
+    },
+    {
+        "ticker": "EGP",
+        "url": "https://finance.yahoo.com/quote/EGP/"
+    },
+    {
+        "ticker": "DINO",
+        "url": "https://finance.yahoo.com/quote/DINO/"
+    },
+    {
+        "ticker": "BWXT",
+        "url": "https://finance.yahoo.com/quote/BWXT/"
+    },
+    {
+        "ticker": "DAY",
+        "url": "https://finance.yahoo.com/quote/DAY/"
+    },
+    {
+        "ticker": "WF",
+        "url": "https://finance.yahoo.com/quote/WF/"
+    },
+    {
+        "ticker": "KBR",
+        "url": "https://finance.yahoo.com/quote/KBR/"
+    },
+    {
+        "ticker": "FRT-PC",
+        "url": "https://finance.yahoo.com/quote/FRT-PC/"
+    },
+    {
+        "ticker": "SKM",
+        "url": "https://finance.yahoo.com/quote/SKM/"
+    },
+    {
+        "ticker": "TPX",
+        "url": "https://finance.yahoo.com/quote/TPX/"
+    },
+    {
+        "ticker": "LW",
+        "url": "https://finance.yahoo.com/quote/LW/"
+    },
+    {
+        "ticker": "GNRC",
+        "url": "https://finance.yahoo.com/quote/GNRC/"
+    },
+    {
+        "ticker": "WAL",
+        "url": "https://finance.yahoo.com/quote/WAL/"
+    },
+    {
+        "ticker": "NYT",
+        "url": "https://finance.yahoo.com/quote/NYT/"
+    },
+    {
+        "ticker": "PRI",
+        "url": "https://finance.yahoo.com/quote/PRI/"
+    },
+    {
+        "ticker": "GPK",
+        "url": "https://finance.yahoo.com/quote/GPK/"
+    },
+    {
+        "ticker": "HRB",
+        "url": "https://finance.yahoo.com/quote/HRB/"
+    },
+    {
+        "ticker": "NIO",
+        "url": "https://finance.yahoo.com/quote/NIO/"
+    },
+    {
+        "ticker": "CHE",
+        "url": "https://finance.yahoo.com/quote/CHE/"
+    },
+    {
+        "ticker": "CX",
+        "url": "https://finance.yahoo.com/quote/CX/"
+    },
+    {
+        "ticker": "FHN",
+        "url": "https://finance.yahoo.com/quote/FHN/"
+    },
+    {
+        "ticker": "MOS",
+        "url": "https://finance.yahoo.com/quote/MOS/"
+    },
+    {
+        "ticker": "SF",
+        "url": "https://finance.yahoo.com/quote/SF/"
+    },
+    {
+        "ticker": "INGR",
+        "url": "https://finance.yahoo.com/quote/INGR/"
+    },
+    {
+        "ticker": "RZB",
+        "url": "https://finance.yahoo.com/quote/RZB/"
+    },
+    {
+        "ticker": "NNN",
+        "url": "https://finance.yahoo.com/quote/NNN/"
+    },
+    {
+        "ticker": "EXP",
+        "url": "https://finance.yahoo.com/quote/EXP/"
+    },
+    {
+        "ticker": "PAC",
+        "url": "https://finance.yahoo.com/quote/PAC/"
+    },
+    {
+        "ticker": "CR",
+        "url": "https://finance.yahoo.com/quote/CR/"
+    },
+    {
+        "ticker": "DCI",
+        "url": "https://finance.yahoo.com/quote/DCI/"
+    },
+    {
+        "ticker": "CIB",
+        "url": "https://finance.yahoo.com/quote/CIB/"
+    },
+    {
+        "ticker": "AMH-PH",
+        "url": "https://finance.yahoo.com/quote/AMH-PH/"
+    },
+    {
+        "ticker": "BNRE-A",
+        "url": "https://finance.yahoo.com/quote/BNRE-A/"
+    },
+    {
+        "ticker": "KNX",
+        "url": "https://finance.yahoo.com/quote/KNX/"
+    },
+    {
+        "ticker": "RBC",
+        "url": "https://finance.yahoo.com/quote/RBC/"
+    },
+    {
+        "ticker": "EDR",
+        "url": "https://finance.yahoo.com/quote/EDR/"
+    },
+    {
+        "ticker": "GLOB",
+        "url": "https://finance.yahoo.com/quote/GLOB/"
+    },
+    {
+        "ticker": "PCOR",
+        "url": "https://finance.yahoo.com/quote/PCOR/"
+    },
+    {
+        "ticker": "COLD",
+        "url": "https://finance.yahoo.com/quote/COLD/"
+    },
+    {
+        "ticker": "MTZ",
+        "url": "https://finance.yahoo.com/quote/MTZ/"
+    },
+    {
+        "ticker": "BRX",
+        "url": "https://finance.yahoo.com/quote/BRX/"
+    },
+    {
+        "ticker": "AMH-PG",
+        "url": "https://finance.yahoo.com/quote/AMH-PG/"
+    },
+    {
+        "ticker": "COTY",
+        "url": "https://finance.yahoo.com/quote/COTY/"
+    },
+    {
+        "ticker": "KVYO",
+        "url": "https://finance.yahoo.com/quote/KVYO/"
+    },
+    {
+        "ticker": "FLR",
+        "url": "https://finance.yahoo.com/quote/FLR/"
+    },
+    {
+        "ticker": "BFAM",
+        "url": "https://finance.yahoo.com/quote/BFAM/"
+    },
+    {
+        "ticker": "HESM",
+        "url": "https://finance.yahoo.com/quote/HESM/"
+    },
+    {
+        "ticker": "X",
+        "url": "https://finance.yahoo.com/quote/X/"
+    },
+    {
+        "ticker": "WBS",
+        "url": "https://finance.yahoo.com/quote/WBS/"
+    },
+    {
+        "ticker": "ALV",
+        "url": "https://finance.yahoo.com/quote/ALV/"
+    },
+    {
+        "ticker": "FCN",
+        "url": "https://finance.yahoo.com/quote/FCN/"
+    },
+    {
+        "ticker": "FN",
+        "url": "https://finance.yahoo.com/quote/FN/"
+    },
+    {
+        "ticker": "XPEV",
+        "url": "https://finance.yahoo.com/quote/XPEV/"
+    },
+    {
+        "ticker": "OGE",
+        "url": "https://finance.yahoo.com/quote/OGE/"
+    },
+    {
+        "ticker": "AR",
+        "url": "https://finance.yahoo.com/quote/AR/"
+    },
+    {
+        "ticker": "PEN",
+        "url": "https://finance.yahoo.com/quote/PEN/"
+    },
+    {
+        "ticker": "CIEN",
+        "url": "https://finance.yahoo.com/quote/CIEN/"
+    },
+    {
+        "ticker": "ELF",
+        "url": "https://finance.yahoo.com/quote/ELF/"
+    },
+    {
+        "ticker": "LTM",
+        "url": "https://finance.yahoo.com/quote/LTM/"
+    },
+    {
+        "ticker": "AXTA",
+        "url": "https://finance.yahoo.com/quote/AXTA/"
+    },
+    {
+        "ticker": "ASR",
+        "url": "https://finance.yahoo.com/quote/ASR/"
+    },
+    {
+        "ticker": "BERY",
+        "url": "https://finance.yahoo.com/quote/BERY/"
+    },
+    {
+        "ticker": "VOYA-PB",
+        "url": "https://finance.yahoo.com/quote/VOYA-PB/"
+    },
+    {
+        "ticker": "FMC",
+        "url": "https://finance.yahoo.com/quote/FMC/"
+    },
+    {
+        "ticker": "AA",
+        "url": "https://finance.yahoo.com/quote/AA/"
+    },
+    {
+        "ticker": "ATH-PA",
+        "url": "https://finance.yahoo.com/quote/ATH-PA/"
+    },
+    {
+        "ticker": "MLI",
+        "url": "https://finance.yahoo.com/quote/MLI/"
+    },
+    {
+        "ticker": "LAD",
+        "url": "https://finance.yahoo.com/quote/LAD/"
+    },
+    {
+        "ticker": "TIMB",
+        "url": "https://finance.yahoo.com/quote/TIMB/"
+    },
+    {
+        "ticker": "ALSN",
+        "url": "https://finance.yahoo.com/quote/ALSN/"
+    },
+    {
+        "ticker": "FR",
+        "url": "https://finance.yahoo.com/quote/FR/"
+    },
+    {
+        "ticker": "WEX",
+        "url": "https://finance.yahoo.com/quote/WEX/"
+    },
+    {
+        "ticker": "AGI",
+        "url": "https://finance.yahoo.com/quote/AGI/"
+    },
+    {
+        "ticker": "NCLH",
+        "url": "https://finance.yahoo.com/quote/NCLH/"
+    },
+    {
+        "ticker": "PHYS",
+        "url": "https://finance.yahoo.com/quote/PHYS/"
+    },
+    {
+        "ticker": "BRFS",
+        "url": "https://finance.yahoo.com/quote/BRFS/"
+    },
+    {
+        "ticker": "RNR-PF",
+        "url": "https://finance.yahoo.com/quote/RNR-PF/"
+    },
+    {
+        "ticker": "WCC",
+        "url": "https://finance.yahoo.com/quote/WCC/"
+    },
+    {
+        "ticker": "LEVI",
+        "url": "https://finance.yahoo.com/quote/LEVI/"
+    },
+    {
+        "ticker": "AIT",
+        "url": "https://finance.yahoo.com/quote/AIT/"
+    },
+    {
+        "ticker": "AYI",
+        "url": "https://finance.yahoo.com/quote/AYI/"
+    },
+    {
+        "ticker": "SPXC",
+        "url": "https://finance.yahoo.com/quote/SPXC/"
+    },
+    {
+        "ticker": "BWA",
+        "url": "https://finance.yahoo.com/quote/BWA/"
+    },
+    {
+        "ticker": "ESTC",
+        "url": "https://finance.yahoo.com/quote/ESTC/"
+    },
+    {
+        "ticker": "KIM-PM",
+        "url": "https://finance.yahoo.com/quote/KIM-PM/"
+    },
+    {
+        "ticker": "ATI",
+        "url": "https://finance.yahoo.com/quote/ATI/"
+    },
+    {
+        "ticker": "YMM",
+        "url": "https://finance.yahoo.com/quote/YMM/"
+    },
+    {
+        "ticker": "STAG",
+        "url": "https://finance.yahoo.com/quote/STAG/"
+    },
+    {
+        "ticker": "DTM",
+        "url": "https://finance.yahoo.com/quote/DTM/"
+    },
+    {
+        "ticker": "ELAN",
+        "url": "https://finance.yahoo.com/quote/ELAN/"
+    },
+    {
+        "ticker": "IVZ",
+        "url": "https://finance.yahoo.com/quote/IVZ/"
+    },
+    {
+        "ticker": "ADC",
+        "url": "https://finance.yahoo.com/quote/ADC/"
+    },
+    {
+        "ticker": "CMA",
+        "url": "https://finance.yahoo.com/quote/CMA/"
+    },
+    {
+        "ticker": "INFA",
+        "url": "https://finance.yahoo.com/quote/INFA/"
+    },
+    {
+        "ticker": "SSD",
+        "url": "https://finance.yahoo.com/quote/SSD/"
+    },
+    {
+        "ticker": "SSB",
+        "url": "https://finance.yahoo.com/quote/SSB/"
+    },
+    {
+        "ticker": "VFC",
+        "url": "https://finance.yahoo.com/quote/VFC/"
+    },
+    {
+        "ticker": "KT",
+        "url": "https://finance.yahoo.com/quote/KT/"
+    },
+    {
+        "ticker": "GKOS",
+        "url": "https://finance.yahoo.com/quote/GKOS/"
+    },
+    {
+        "ticker": "ANF",
+        "url": "https://finance.yahoo.com/quote/ANF/"
+    },
+    {
+        "ticker": "KIM-PL",
+        "url": "https://finance.yahoo.com/quote/KIM-PL/"
+    },
+    {
+        "ticker": "S",
+        "url": "https://finance.yahoo.com/quote/S/"
+    },
+    {
+        "ticker": "GIL",
+        "url": "https://finance.yahoo.com/quote/GIL/"
+    },
+    {
+        "ticker": "SUN",
+        "url": "https://finance.yahoo.com/quote/SUN/"
+    },
+    {
+        "ticker": "PATH",
+        "url": "https://finance.yahoo.com/quote/PATH/"
+    },
+    {
+        "ticker": "MTH",
+        "url": "https://finance.yahoo.com/quote/MTH/"
+    },
+    {
+        "ticker": "MSA",
+        "url": "https://finance.yahoo.com/quote/MSA/"
+    },
+    {
+        "ticker": "BRBR",
+        "url": "https://finance.yahoo.com/quote/BRBR/"
+    },
+    {
+        "ticker": "CFR",
+        "url": "https://finance.yahoo.com/quote/CFR/"
+    },
+    {
+        "ticker": "RLI",
+        "url": "https://finance.yahoo.com/quote/RLI/"
+    },
+    {
+        "ticker": "FOUR",
+        "url": "https://finance.yahoo.com/quote/FOUR/"
+    },
+    {
+        "ticker": "AM",
+        "url": "https://finance.yahoo.com/quote/AM/"
+    },
+    {
+        "ticker": "RRC",
+        "url": "https://finance.yahoo.com/quote/RRC/"
+    },
+    {
+        "ticker": "BNRE",
+        "url": "https://finance.yahoo.com/quote/BNRE/"
+    },
+    {
+        "ticker": "VNO",
+        "url": "https://finance.yahoo.com/quote/VNO/"
+    },
+    {
+        "ticker": "PAAS",
+        "url": "https://finance.yahoo.com/quote/PAAS/"
+    },
+    {
+        "ticker": "PB",
+        "url": "https://finance.yahoo.com/quote/PB/"
+    },
+    {
+        "ticker": "MTN",
+        "url": "https://finance.yahoo.com/quote/MTN/"
+    },
+    {
+        "ticker": "VOYA",
+        "url": "https://finance.yahoo.com/quote/VOYA/"
+    },
+    {
+        "ticker": "WFG",
+        "url": "https://finance.yahoo.com/quote/WFG/"
+    },
+    {
+        "ticker": "G",
+        "url": "https://finance.yahoo.com/quote/G/"
+    },
+    {
+        "ticker": "POST",
+        "url": "https://finance.yahoo.com/quote/POST/"
+    },
+    {
+        "ticker": "DOCS",
+        "url": "https://finance.yahoo.com/quote/DOCS/"
+    },
+    {
+        "ticker": "ARW",
+        "url": "https://finance.yahoo.com/quote/ARW/"
+    },
+    {
+        "ticker": "TMHC",
+        "url": "https://finance.yahoo.com/quote/TMHC/"
+    },
+    {
+        "ticker": "AN",
+        "url": "https://finance.yahoo.com/quote/AN/"
+    },
+    {
+        "ticker": "LPX",
+        "url": "https://finance.yahoo.com/quote/LPX/"
+    },
+    {
+        "ticker": "SWN",
+        "url": "https://finance.yahoo.com/quote/SWN/"
+    },
+    {
+        "ticker": "PLNT",
+        "url": "https://finance.yahoo.com/quote/PLNT/"
+    },
+    {
+        "ticker": "CMS-PB",
+        "url": "https://finance.yahoo.com/quote/CMS-PB/"
+    },
+    {
+        "ticker": "AS",
+        "url": "https://finance.yahoo.com/quote/AS/"
+    },
+    {
+        "ticker": "NOV",
+        "url": "https://finance.yahoo.com/quote/NOV/"
+    },
+    {
+        "ticker": "ESNT",
+        "url": "https://finance.yahoo.com/quote/ESNT/"
+    },
+    {
+        "ticker": "STWD",
+        "url": "https://finance.yahoo.com/quote/STWD/"
+    },
+    {
+        "ticker": "DLB",
+        "url": "https://finance.yahoo.com/quote/DLB/"
+    },
+    {
+        "ticker": "OSK",
+        "url": "https://finance.yahoo.com/quote/OSK/"
+    },
+    {
+        "ticker": "CRS",
+        "url": "https://finance.yahoo.com/quote/CRS/"
+    },
+    {
+        "ticker": "KEX",
+        "url": "https://finance.yahoo.com/quote/KEX/"
+    },
+    {
+        "ticker": "AXS",
+        "url": "https://finance.yahoo.com/quote/AXS/"
+    },
+    {
+        "ticker": "BBWI",
+        "url": "https://finance.yahoo.com/quote/BBWI/"
+    },
+    {
+        "ticker": "TRNO",
+        "url": "https://finance.yahoo.com/quote/TRNO/"
+    },
+    {
+        "ticker": "TREX",
+        "url": "https://finance.yahoo.com/quote/TREX/"
+    },
+    {
+        "ticker": "SLG-PI",
+        "url": "https://finance.yahoo.com/quote/SLG-PI/"
+    },
+    {
+        "ticker": "MTDR",
+        "url": "https://finance.yahoo.com/quote/MTDR/"
+    },
+    {
+        "ticker": "VIPS",
+        "url": "https://finance.yahoo.com/quote/VIPS/"
+    },
+    {
+        "ticker": "SUM",
+        "url": "https://finance.yahoo.com/quote/SUM/"
+    },
+    {
+        "ticker": "U",
+        "url": "https://finance.yahoo.com/quote/U/"
+    },
+    {
+        "ticker": "MTG",
+        "url": "https://finance.yahoo.com/quote/MTG/"
+    },
+    {
+        "ticker": "HR",
+        "url": "https://finance.yahoo.com/quote/HR/"
+    },
+    {
+        "ticker": "AGCO",
+        "url": "https://finance.yahoo.com/quote/AGCO/"
+    },
+    {
+        "ticker": "SMAR",
+        "url": "https://finance.yahoo.com/quote/SMAR/"
+    },
+    {
+        "ticker": "FAF",
+        "url": "https://finance.yahoo.com/quote/FAF/"
+    },
+    {
+        "ticker": "ENLC",
+        "url": "https://finance.yahoo.com/quote/ENLC/"
+    },
+    {
+        "ticker": "TKC",
+        "url": "https://finance.yahoo.com/quote/TKC/"
+    },
+    {
+        "ticker": "ADT",
+        "url": "https://finance.yahoo.com/quote/ADT/"
+    },
+    {
+        "ticker": "SNV",
+        "url": "https://finance.yahoo.com/quote/SNV/"
+    },
+    {
+        "ticker": "WTS",
+        "url": "https://finance.yahoo.com/quote/WTS/"
+    },
+    {
+        "ticker": "JXN",
+        "url": "https://finance.yahoo.com/quote/JXN/"
+    },
+    {
+        "ticker": "LEA",
+        "url": "https://finance.yahoo.com/quote/LEA/"
+    },
+    {
+        "ticker": "DAR",
+        "url": "https://finance.yahoo.com/quote/DAR/"
+    },
+    {
+        "ticker": "TX",
+        "url": "https://finance.yahoo.com/quote/TX/"
+    },
+    {
+        "ticker": "RHI",
+        "url": "https://finance.yahoo.com/quote/RHI/"
+    },
+    {
+        "ticker": "CIG",
+        "url": "https://finance.yahoo.com/quote/CIG/"
+    },
+    {
+        "ticker": "CIG-C",
+        "url": "https://finance.yahoo.com/quote/CIG-C/"
+    },
+    {
+        "ticker": "MOD",
+        "url": "https://finance.yahoo.com/quote/MOD/"
+    },
+    {
+        "ticker": "GGB",
+        "url": "https://finance.yahoo.com/quote/GGB/"
+    },
+    {
+        "ticker": "MOG-A",
+        "url": "https://finance.yahoo.com/quote/MOG-A/"
+    },
+    {
+        "ticker": "SQSP",
+        "url": "https://finance.yahoo.com/quote/SQSP/"
+    },
+    {
+        "ticker": "FLS",
+        "url": "https://finance.yahoo.com/quote/FLS/"
+    },
+    {
+        "ticker": "ESI",
+        "url": "https://finance.yahoo.com/quote/ESI/"
+    },
+    {
+        "ticker": "OAK-PB",
+        "url": "https://finance.yahoo.com/quote/OAK-PB/"
+    },
+    {
+        "ticker": "WH",
+        "url": "https://finance.yahoo.com/quote/WH/"
+    },
+    {
+        "ticker": "KBH",
+        "url": "https://finance.yahoo.com/quote/KBH/"
+    },
+    {
+        "ticker": "RHP",
+        "url": "https://finance.yahoo.com/quote/RHP/"
+    },
+    {
+        "ticker": "LOAR",
+        "url": "https://finance.yahoo.com/quote/LOAR/"
+    },
+    {
+        "ticker": "SITE",
+        "url": "https://finance.yahoo.com/quote/SITE/"
+    },
+    {
+        "ticker": "R",
+        "url": "https://finance.yahoo.com/quote/R/"
+    },
+    {
+        "ticker": "ERJ",
+        "url": "https://finance.yahoo.com/quote/ERJ/"
+    },
+    {
+        "ticker": "PACS",
+        "url": "https://finance.yahoo.com/quote/PACS/"
+    },
+    {
+        "ticker": "HMY",
+        "url": "https://finance.yahoo.com/quote/HMY/"
+    },
+    {
+        "ticker": "BXSL",
+        "url": "https://finance.yahoo.com/quote/BXSL/"
+    },
+    {
+        "ticker": "NSA",
+        "url": "https://finance.yahoo.com/quote/NSA/"
+    },
+    {
+        "ticker": "STVN",
+        "url": "https://finance.yahoo.com/quote/STVN/"
+    },
+    {
+        "ticker": "AZEK",
+        "url": "https://finance.yahoo.com/quote/AZEK/"
+    },
+    {
+        "ticker": "CHH",
+        "url": "https://finance.yahoo.com/quote/CHH/"
+    },
+    {
+        "ticker": "ESAB",
+        "url": "https://finance.yahoo.com/quote/ESAB/"
+    },
+    {
+        "ticker": "CWAN",
+        "url": "https://finance.yahoo.com/quote/CWAN/"
+    },
+    {
+        "ticker": "RBRK",
+        "url": "https://finance.yahoo.com/quote/RBRK/"
+    },
+    {
+        "ticker": "PDI",
+        "url": "https://finance.yahoo.com/quote/PDI/"
+    },
+    {
+        "ticker": "IBP",
+        "url": "https://finance.yahoo.com/quote/IBP/"
+    },
+    {
+        "ticker": "CADE",
+        "url": "https://finance.yahoo.com/quote/CADE/"
+    },
+    {
+        "ticker": "CMC",
+        "url": "https://finance.yahoo.com/quote/CMC/"
+    },
+    {
+        "ticker": "JHG",
+        "url": "https://finance.yahoo.com/quote/JHG/"
+    },
+    {
+        "ticker": "GXO",
+        "url": "https://finance.yahoo.com/quote/GXO/"
+    },
+    {
+        "ticker": "OBDC",
+        "url": "https://finance.yahoo.com/quote/OBDC/"
+    },
+    {
+        "ticker": "OMF",
+        "url": "https://finance.yahoo.com/quote/OMF/"
+    },
+    {
+        "ticker": "BMI",
+        "url": "https://finance.yahoo.com/quote/BMI/"
+    },
+    {
+        "ticker": "KRG",
+        "url": "https://finance.yahoo.com/quote/KRG/"
+    },
+    {
+        "ticker": "RITM",
+        "url": "https://finance.yahoo.com/quote/RITM/"
+    },
+    {
+        "ticker": "CIVI",
+        "url": "https://finance.yahoo.com/quote/CIVI/"
+    },
+    {
+        "ticker": "BLCO",
+        "url": "https://finance.yahoo.com/quote/BLCO/"
+    },
+    {
+        "ticker": "MNSO",
+        "url": "https://finance.yahoo.com/quote/MNSO/"
+    },
+    {
+        "ticker": "OGN",
+        "url": "https://finance.yahoo.com/quote/OGN/"
+    },
+    {
+        "ticker": "TKR",
+        "url": "https://finance.yahoo.com/quote/TKR/"
+    },
+    {
+        "ticker": "CLF",
+        "url": "https://finance.yahoo.com/quote/CLF/"
+    },
+    {
+        "ticker": "FSK",
+        "url": "https://finance.yahoo.com/quote/FSK/"
+    },
+    {
+        "ticker": "ICL",
+        "url": "https://finance.yahoo.com/quote/ICL/"
+    },
+    {
+        "ticker": "CAE",
+        "url": "https://finance.yahoo.com/quote/CAE/"
+    },
+    {
+        "ticker": "BILL",
+        "url": "https://finance.yahoo.com/quote/BILL/"
+    },
+    {
+        "ticker": "ZETA",
+        "url": "https://finance.yahoo.com/quote/ZETA/"
+    },
+    {
+        "ticker": "EPRT",
+        "url": "https://finance.yahoo.com/quote/EPRT/"
+    },
+    {
+        "ticker": "PHI",
+        "url": "https://finance.yahoo.com/quote/PHI/"
+    },
+    {
+        "ticker": "DDS",
+        "url": "https://finance.yahoo.com/quote/DDS/"
+    },
+    {
+        "ticker": "THO",
+        "url": "https://finance.yahoo.com/quote/THO/"
+    },
+    {
+        "ticker": "SLGN",
+        "url": "https://finance.yahoo.com/quote/SLGN/"
+    },
+    {
+        "ticker": "VMI",
+        "url": "https://finance.yahoo.com/quote/VMI/"
+    },
+    {
+        "ticker": "SON",
+        "url": "https://finance.yahoo.com/quote/SON/"
+    },
+    {
+        "ticker": "HOMB",
+        "url": "https://finance.yahoo.com/quote/HOMB/"
+    },
+    {
+        "ticker": "CBT",
+        "url": "https://finance.yahoo.com/quote/CBT/"
+    },
+    {
+        "ticker": "ST",
+        "url": "https://finance.yahoo.com/quote/ST/"
+    },
+    {
+        "ticker": "CWEN",
+        "url": "https://finance.yahoo.com/quote/CWEN/"
+    },
+    {
+        "ticker": "CWEN-A",
+        "url": "https://finance.yahoo.com/quote/CWEN-A/"
+    },
+    {
+        "ticker": "CLS",
+        "url": "https://finance.yahoo.com/quote/CLS/"
+    },
+    {
+        "ticker": "BYD",
+        "url": "https://finance.yahoo.com/quote/BYD/"
+    },
+    {
+        "ticker": "NFG",
+        "url": "https://finance.yahoo.com/quote/NFG/"
+    },
+    {
+        "ticker": "IDA",
+        "url": "https://finance.yahoo.com/quote/IDA/"
+    },
+    {
+        "ticker": "MMS",
+        "url": "https://finance.yahoo.com/quote/MMS/"
+    },
+    {
+        "ticker": "PFSI",
+        "url": "https://finance.yahoo.com/quote/PFSI/"
+    },
+    {
+        "ticker": "FSS",
+        "url": "https://finance.yahoo.com/quote/FSS/"
+    },
+    {
+        "ticker": "AWI",
+        "url": "https://finance.yahoo.com/quote/AWI/"
+    },
+    {
+        "ticker": "PVH",
+        "url": "https://finance.yahoo.com/quote/PVH/"
+    },
+    {
+        "ticker": "LNC",
+        "url": "https://finance.yahoo.com/quote/LNC/"
+    },
+    {
+        "ticker": "WHR",
+        "url": "https://finance.yahoo.com/quote/WHR/"
+    },
+    {
+        "ticker": "MUR",
+        "url": "https://finance.yahoo.com/quote/MUR/"
+    },
+    {
+        "ticker": "GAB-PG",
+        "url": "https://finance.yahoo.com/quote/GAB-PG/"
+    },
+    {
+        "ticker": "RDN",
+        "url": "https://finance.yahoo.com/quote/RDN/"
+    },
+    {
+        "ticker": "ZWS",
+        "url": "https://finance.yahoo.com/quote/ZWS/"
+    },
+    {
+        "ticker": "UGI",
+        "url": "https://finance.yahoo.com/quote/UGI/"
+    },
+    {
+        "ticker": "EPR-PG",
+        "url": "https://finance.yahoo.com/quote/EPR-PG/"
+    },
+    {
+        "ticker": "FG",
+        "url": "https://finance.yahoo.com/quote/FG/"
+    },
+    {
+        "ticker": "NEU",
+        "url": "https://finance.yahoo.com/quote/NEU/"
+    },
+    {
+        "ticker": "FNB",
+        "url": "https://finance.yahoo.com/quote/FNB/"
+    },
+    {
+        "ticker": "DNB",
+        "url": "https://finance.yahoo.com/quote/DNB/"
+    },
+    {
+        "ticker": "GBCI",
+        "url": "https://finance.yahoo.com/quote/GBCI/"
+    },
+    {
+        "ticker": "THG",
+        "url": "https://finance.yahoo.com/quote/THG/"
+    },
+    {
+        "ticker": "VVV",
+        "url": "https://finance.yahoo.com/quote/VVV/"
+    },
+    {
+        "ticker": "ELP",
+        "url": "https://finance.yahoo.com/quote/ELP/"
+    },
+    {
+        "ticker": "ELPC",
+        "url": "https://finance.yahoo.com/quote/ELPC/"
+    },
+    {
+        "ticker": "INSP",
+        "url": "https://finance.yahoo.com/quote/INSP/"
+    },
+    {
+        "ticker": "KD",
+        "url": "https://finance.yahoo.com/quote/KD/"
+    },
+    {
+        "ticker": "BCC",
+        "url": "https://finance.yahoo.com/quote/BCC/"
+    },
+    {
+        "ticker": "SNV-PD",
+        "url": "https://finance.yahoo.com/quote/SNV-PD/"
+    },
+    {
+        "ticker": "VNT",
+        "url": "https://finance.yahoo.com/quote/VNT/"
+    },
+    {
+        "ticker": "BMA",
+        "url": "https://finance.yahoo.com/quote/BMA/"
+    },
+    {
+        "ticker": "MDU",
+        "url": "https://finance.yahoo.com/quote/MDU/"
+    },
+    {
+        "ticker": "NE",
+        "url": "https://finance.yahoo.com/quote/NE/"
+    },
+    {
+        "ticker": "SWX",
+        "url": "https://finance.yahoo.com/quote/SWX/"
+    },
+    {
+        "ticker": "BIPC",
+        "url": "https://finance.yahoo.com/quote/BIPC/"
+    },
+    {
+        "ticker": "SKY",
+        "url": "https://finance.yahoo.com/quote/SKY/"
+    },
+    {
+        "ticker": "FRO",
+        "url": "https://finance.yahoo.com/quote/FRO/"
+    },
+    {
+        "ticker": "SEE",
+        "url": "https://finance.yahoo.com/quote/SEE/"
+    },
+    {
+        "ticker": "BC",
+        "url": "https://finance.yahoo.com/quote/BC/"
+    },
+    {
+        "ticker": "AMG",
+        "url": "https://finance.yahoo.com/quote/AMG/"
+    },
+    {
+        "ticker": "W",
+        "url": "https://finance.yahoo.com/quote/W/"
+    },
+    {
+        "ticker": "MSGS",
+        "url": "https://finance.yahoo.com/quote/MSGS/"
+    },
+    {
+        "ticker": "POR",
+        "url": "https://finance.yahoo.com/quote/POR/"
+    },
+    {
+        "ticker": "BEPC",
+        "url": "https://finance.yahoo.com/quote/BEPC/"
+    },
+    {
+        "ticker": "OLN",
+        "url": "https://finance.yahoo.com/quote/OLN/"
+    },
+    {
+        "ticker": "TNET",
+        "url": "https://finance.yahoo.com/quote/TNET/"
+    },
+    {
+        "ticker": "HXL",
+        "url": "https://finance.yahoo.com/quote/HXL/"
+    },
+    {
+        "ticker": "USM",
+        "url": "https://finance.yahoo.com/quote/USM/"
+    },
+    {
+        "ticker": "GPI",
+        "url": "https://finance.yahoo.com/quote/GPI/"
+    },
+    {
+        "ticker": "DY",
+        "url": "https://finance.yahoo.com/quote/DY/"
+    },
+    {
+        "ticker": "SM",
+        "url": "https://finance.yahoo.com/quote/SM/"
+    },
+    {
+        "ticker": "HOG",
+        "url": "https://finance.yahoo.com/quote/HOG/"
+    },
+    {
+        "ticker": "AL",
+        "url": "https://finance.yahoo.com/quote/AL/"
+    },
+    {
+        "ticker": "GTLS",
+        "url": "https://finance.yahoo.com/quote/GTLS/"
+    },
+    {
+        "ticker": "FLO",
+        "url": "https://finance.yahoo.com/quote/FLO/"
+    },
+    {
+        "ticker": "MGY",
+        "url": "https://finance.yahoo.com/quote/MGY/"
+    },
+    {
+        "ticker": "TAL",
+        "url": "https://finance.yahoo.com/quote/TAL/"
+    },
+    {
+        "ticker": "GATX",
+        "url": "https://finance.yahoo.com/quote/GATX/"
+    },
+    {
+        "ticker": "LTH",
+        "url": "https://finance.yahoo.com/quote/LTH/"
+    },
+    {
+        "ticker": "CLVT",
+        "url": "https://finance.yahoo.com/quote/CLVT/"
+    },
+    {
+        "ticker": "LUMN",
+        "url": "https://finance.yahoo.com/quote/LUMN/"
+    },
+    {
+        "ticker": "IRT",
+        "url": "https://finance.yahoo.com/quote/IRT/"
+    },
+    {
+        "ticker": "SNDR",
+        "url": "https://finance.yahoo.com/quote/SNDR/"
+    },
+    {
+        "ticker": "BROS",
+        "url": "https://finance.yahoo.com/quote/BROS/"
+    },
+    {
+        "ticker": "ABG",
+        "url": "https://finance.yahoo.com/quote/ABG/"
+    },
+    {
+        "ticker": "BCO",
+        "url": "https://finance.yahoo.com/quote/BCO/"
+    },
+    {
+        "ticker": "VIST",
+        "url": "https://finance.yahoo.com/quote/VIST/"
+    },
+    {
+        "ticker": "WTM",
+        "url": "https://finance.yahoo.com/quote/WTM/"
+    },
+    {
+        "ticker": "PSLV",
+        "url": "https://finance.yahoo.com/quote/PSLV/"
+    },
+    {
+        "ticker": "PJT",
+        "url": "https://finance.yahoo.com/quote/PJT/"
+    },
+    {
+        "ticker": "RYN",
+        "url": "https://finance.yahoo.com/quote/RYN/"
+    },
+    {
+        "ticker": "RH",
+        "url": "https://finance.yahoo.com/quote/RH/"
+    },
+    {
+        "ticker": "PBI-PB",
+        "url": "https://finance.yahoo.com/quote/PBI-PB/"
+    },
+    {
+        "ticker": "PII",
+        "url": "https://finance.yahoo.com/quote/PII/"
+    },
+    {
+        "ticker": "BOX",
+        "url": "https://finance.yahoo.com/quote/BOX/"
+    },
+    {
+        "ticker": "NJR",
+        "url": "https://finance.yahoo.com/quote/NJR/"
+    },
+    {
+        "ticker": "SEM",
+        "url": "https://finance.yahoo.com/quote/SEM/"
+    },
+    {
+        "ticker": "CTRE",
+        "url": "https://finance.yahoo.com/quote/CTRE/"
+    },
+    {
+        "ticker": "MC",
+        "url": "https://finance.yahoo.com/quote/MC/"
+    },
+    {
+        "ticker": "SSL",
+        "url": "https://finance.yahoo.com/quote/SSL/"
+    },
+    {
+        "ticker": "ALK",
+        "url": "https://finance.yahoo.com/quote/ALK/"
+    },
+    {
+        "ticker": "MATX",
+        "url": "https://finance.yahoo.com/quote/MATX/"
+    },
+    {
+        "ticker": "MSM",
+        "url": "https://finance.yahoo.com/quote/MSM/"
+    },
+    {
+        "ticker": "FUL",
+        "url": "https://finance.yahoo.com/quote/FUL/"
+    },
+    {
+        "ticker": "GTES",
+        "url": "https://finance.yahoo.com/quote/GTES/"
+    },
+    {
+        "ticker": "CRC",
+        "url": "https://finance.yahoo.com/quote/CRC/"
+    },
+    {
+        "ticker": "CNS",
+        "url": "https://finance.yahoo.com/quote/CNS/"
+    },
+    {
+        "ticker": "FUN",
+        "url": "https://finance.yahoo.com/quote/FUN/"
+    },
+    {
+        "ticker": "ORA",
+        "url": "https://finance.yahoo.com/quote/ORA/"
+    },
+    {
+        "ticker": "AXS-PE",
+        "url": "https://finance.yahoo.com/quote/AXS-PE/"
+    },
+    {
+        "ticker": "IGT",
+        "url": "https://finance.yahoo.com/quote/IGT/"
+    },
+    {
+        "ticker": "UGP",
+        "url": "https://finance.yahoo.com/quote/UGP/"
+    },
+    {
+        "ticker": "QTWO",
+        "url": "https://finance.yahoo.com/quote/QTWO/"
+    },
+    {
+        "ticker": "LAZ",
+        "url": "https://finance.yahoo.com/quote/LAZ/"
+    },
+    {
+        "ticker": "OSCR",
+        "url": "https://finance.yahoo.com/quote/OSCR/"
+    },
+    {
+        "ticker": "CUZ",
+        "url": "https://finance.yahoo.com/quote/CUZ/"
+    },
+    {
+        "ticker": "AVNT",
+        "url": "https://finance.yahoo.com/quote/AVNT/"
+    },
+    {
+        "ticker": "MAIN",
+        "url": "https://finance.yahoo.com/quote/MAIN/"
+    },
+    {
+        "ticker": "CSAN",
+        "url": "https://finance.yahoo.com/quote/CSAN/"
+    },
+    {
+        "ticker": "ASH",
+        "url": "https://finance.yahoo.com/quote/ASH/"
+    },
+    {
+        "ticker": "SFBS",
+        "url": "https://finance.yahoo.com/quote/SFBS/"
+    },
+    {
+        "ticker": "M",
+        "url": "https://finance.yahoo.com/quote/M/"
+    },
+    {
+        "ticker": "KNF",
+        "url": "https://finance.yahoo.com/quote/KNF/"
+    },
+    {
+        "ticker": "ABCB",
+        "url": "https://finance.yahoo.com/quote/ABCB/"
+    },
+    {
+        "ticker": "ITGR",
+        "url": "https://finance.yahoo.com/quote/ITGR/"
+    },
+    {
+        "ticker": "CPRI",
+        "url": "https://finance.yahoo.com/quote/CPRI/"
+    },
+    {
+        "ticker": "MHO",
+        "url": "https://finance.yahoo.com/quote/MHO/"
+    },
+    {
+        "ticker": "AL-PA",
+        "url": "https://finance.yahoo.com/quote/AL-PA/"
+    },
+    {
+        "ticker": "TDW",
+        "url": "https://finance.yahoo.com/quote/TDW/"
+    },
+    {
+        "ticker": "AGO",
+        "url": "https://finance.yahoo.com/quote/AGO/"
+    },
+    {
+        "ticker": "ACA",
+        "url": "https://finance.yahoo.com/quote/ACA/"
+    },
+    {
+        "ticker": "SLG",
+        "url": "https://finance.yahoo.com/quote/SLG/"
+    },
+    {
+        "ticker": "NNI",
+        "url": "https://finance.yahoo.com/quote/NNI/"
+    },
+    {
+        "ticker": "VRN",
+        "url": "https://finance.yahoo.com/quote/VRN/"
+    },
+    {
+        "ticker": "CNX",
+        "url": "https://finance.yahoo.com/quote/CNX/"
+    },
+    {
+        "ticker": "VAL",
+        "url": "https://finance.yahoo.com/quote/VAL/"
+    },
+    {
+        "ticker": "KRC",
+        "url": "https://finance.yahoo.com/quote/KRC/"
+    },
+    {
+        "ticker": "PIPR",
+        "url": "https://finance.yahoo.com/quote/PIPR/"
+    },
+    {
+        "ticker": "ASGN",
+        "url": "https://finance.yahoo.com/quote/ASGN/"
+    },
+    {
+        "ticker": "SHAK",
+        "url": "https://finance.yahoo.com/quote/SHAK/"
+    },
+    {
+        "ticker": "WK",
+        "url": "https://finance.yahoo.com/quote/WK/"
+    },
+    {
+        "ticker": "BOOT",
+        "url": "https://finance.yahoo.com/quote/BOOT/"
+    },
+    {
+        "ticker": "BKH",
+        "url": "https://finance.yahoo.com/quote/BKH/"
+    },
+    {
+        "ticker": "BDC",
+        "url": "https://finance.yahoo.com/quote/BDC/"
+    },
+    {
+        "ticker": "YOU",
+        "url": "https://finance.yahoo.com/quote/YOU/"
+    },
+    {
+        "ticker": "WU",
+        "url": "https://finance.yahoo.com/quote/WU/"
+    },
+    {
+        "ticker": "GOLF",
+        "url": "https://finance.yahoo.com/quote/GOLF/"
+    },
+    {
+        "ticker": "AQN",
+        "url": "https://finance.yahoo.com/quote/AQN/"
+    },
+    {
+        "ticker": "KTB",
+        "url": "https://finance.yahoo.com/quote/KTB/"
+    },
+    {
+        "ticker": "ALIT",
+        "url": "https://finance.yahoo.com/quote/ALIT/"
+    },
+    {
+        "ticker": "KMPR",
+        "url": "https://finance.yahoo.com/quote/KMPR/"
+    },
+    {
+        "ticker": "SR-PA",
+        "url": "https://finance.yahoo.com/quote/SR-PA/"
+    },
+    {
+        "ticker": "PAM",
+        "url": "https://finance.yahoo.com/quote/PAM/"
+    },
+    {
+        "ticker": "TPH",
+        "url": "https://finance.yahoo.com/quote/TPH/"
+    },
+    {
+        "ticker": "HGTY",
+        "url": "https://finance.yahoo.com/quote/HGTY/"
+    },
+    {
+        "ticker": "SMG",
+        "url": "https://finance.yahoo.com/quote/SMG/"
+    },
+    {
+        "ticker": "ENS",
+        "url": "https://finance.yahoo.com/quote/ENS/"
+    },
+    {
+        "ticker": "ZK",
+        "url": "https://finance.yahoo.com/quote/ZK/"
+    },
+    {
+        "ticker": "OGS",
+        "url": "https://finance.yahoo.com/quote/OGS/"
+    },
+    {
+        "ticker": "HRI",
+        "url": "https://finance.yahoo.com/quote/HRI/"
+    },
+    {
+        "ticker": "NYCB",
+        "url": "https://finance.yahoo.com/quote/NYCB/"
+    },
+    {
+        "ticker": "TGS",
+        "url": "https://finance.yahoo.com/quote/TGS/"
+    },
+    {
+        "ticker": "PBF",
+        "url": "https://finance.yahoo.com/quote/PBF/"
+    },
+    {
+        "ticker": "PRGO",
+        "url": "https://finance.yahoo.com/quote/PRGO/"
+    },
+    {
+        "ticker": "BVN",
+        "url": "https://finance.yahoo.com/quote/BVN/"
+    },
+    {
+        "ticker": "SPR",
+        "url": "https://finance.yahoo.com/quote/SPR/"
+    },
+    {
+        "ticker": "REXR-PB",
+        "url": "https://finance.yahoo.com/quote/REXR-PB/"
+    },
+    {
+        "ticker": "AX",
+        "url": "https://finance.yahoo.com/quote/AX/"
+    },
+    {
+        "ticker": "HASI",
+        "url": "https://finance.yahoo.com/quote/HASI/"
+    },
+    {
+        "ticker": "AB",
+        "url": "https://finance.yahoo.com/quote/AB/"
+    },
+    {
+        "ticker": "HGV",
+        "url": "https://finance.yahoo.com/quote/HGV/"
+    },
+    {
+        "ticker": "HAE",
+        "url": "https://finance.yahoo.com/quote/HAE/"
+    },
+    {
+        "ticker": "LPL",
+        "url": "https://finance.yahoo.com/quote/LPL/"
+    },
+    {
+        "ticker": "SR",
+        "url": "https://finance.yahoo.com/quote/SR/"
+    },
+    {
+        "ticker": "NOG",
+        "url": "https://finance.yahoo.com/quote/NOG/"
+    },
+    {
+        "ticker": "RIG",
+        "url": "https://finance.yahoo.com/quote/RIG/"
+    },
+    {
+        "ticker": "PWSC",
+        "url": "https://finance.yahoo.com/quote/PWSC/"
+    },
+    {
+        "ticker": "HAFN",
+        "url": "https://finance.yahoo.com/quote/HAFN/"
+    },
+    {
+        "ticker": "WHD",
+        "url": "https://finance.yahoo.com/quote/WHD/"
+    },
+    {
+        "ticker": "ENIC",
+        "url": "https://finance.yahoo.com/quote/ENIC/"
+    },
+    {
+        "ticker": "AEO",
+        "url": "https://finance.yahoo.com/quote/AEO/"
+    },
+    {
+        "ticker": "CPA",
+        "url": "https://finance.yahoo.com/quote/CPA/"
+    },
+    {
+        "ticker": "KFY",
+        "url": "https://finance.yahoo.com/quote/KFY/"
+    },
+    {
+        "ticker": "SF-PB",
+        "url": "https://finance.yahoo.com/quote/SF-PB/"
+    },
+    {
+        "ticker": "JWN",
+        "url": "https://finance.yahoo.com/quote/JWN/"
+    },
+    {
+        "ticker": "TXNM",
+        "url": "https://finance.yahoo.com/quote/TXNM/"
+    },
+    {
+        "ticker": "EQC-PD",
+        "url": "https://finance.yahoo.com/quote/EQC-PD/"
+    },
+    {
+        "ticker": "HHH",
+        "url": "https://finance.yahoo.com/quote/HHH/"
+    },
+    {
+        "ticker": "HUN",
+        "url": "https://finance.yahoo.com/quote/HUN/"
+    },
+    {
+        "ticker": "DXC",
+        "url": "https://finance.yahoo.com/quote/DXC/"
+    },
+    {
+        "ticker": "PBH",
+        "url": "https://finance.yahoo.com/quote/PBH/"
+    },
+    {
+        "ticker": "CBZ",
+        "url": "https://finance.yahoo.com/quote/CBZ/"
+    },
+    {
+        "ticker": "ALE",
+        "url": "https://finance.yahoo.com/quote/ALE/"
+    },
+    {
+        "ticker": "CNO",
+        "url": "https://finance.yahoo.com/quote/CNO/"
+    },
+    {
+        "ticker": "TWO-PC",
+        "url": "https://finance.yahoo.com/quote/TWO-PC/"
+    },
+    {
+        "ticker": "BNL",
+        "url": "https://finance.yahoo.com/quote/BNL/"
+    },
+    {
+        "ticker": "STNG",
+        "url": "https://finance.yahoo.com/quote/STNG/"
+    },
+    {
+        "ticker": "BHVN",
+        "url": "https://finance.yahoo.com/quote/BHVN/"
+    },
+    {
+        "ticker": "EVH",
+        "url": "https://finance.yahoo.com/quote/EVH/"
+    },
+    {
+        "ticker": "EPR",
+        "url": "https://finance.yahoo.com/quote/EPR/"
+    },
+    {
+        "ticker": "SIG",
+        "url": "https://finance.yahoo.com/quote/SIG/"
+    },
+    {
+        "ticker": "UCB",
+        "url": "https://finance.yahoo.com/quote/UCB/"
+    },
+    {
+        "ticker": "WBS-PF",
+        "url": "https://finance.yahoo.com/quote/WBS-PF/"
+    },
+    {
+        "ticker": "ABM",
+        "url": "https://finance.yahoo.com/quote/ABM/"
+    },
+    {
+        "ticker": "KAI",
+        "url": "https://finance.yahoo.com/quote/KAI/"
+    },
+    {
+        "ticker": "TEX",
+        "url": "https://finance.yahoo.com/quote/TEX/"
+    },
+    {
+        "ticker": "PRMW",
+        "url": "https://finance.yahoo.com/quote/PRMW/"
+    },
+    {
+        "ticker": "MCY",
+        "url": "https://finance.yahoo.com/quote/MCY/"
+    },
+    {
+        "ticker": "WD",
+        "url": "https://finance.yahoo.com/quote/WD/"
+    },
+    {
+        "ticker": "PAGS",
+        "url": "https://finance.yahoo.com/quote/PAGS/"
+    },
+    {
+        "ticker": "JOBY",
+        "url": "https://finance.yahoo.com/quote/JOBY/"
+    },
+    {
+        "ticker": "GRP-UN",
+        "url": "https://finance.yahoo.com/quote/GRP-UN/"
+    },
+    {
+        "ticker": "AUB",
+        "url": "https://finance.yahoo.com/quote/AUB/"
+    },
+    {
+        "ticker": "BRC",
+        "url": "https://finance.yahoo.com/quote/BRC/"
+    },
+    {
+        "ticker": "LRN",
+        "url": "https://finance.yahoo.com/quote/LRN/"
+    },
+    {
+        "ticker": "UAA",
+        "url": "https://finance.yahoo.com/quote/UAA/"
+    },
+    {
+        "ticker": "NHI",
+        "url": "https://finance.yahoo.com/quote/NHI/"
+    },
+    {
+        "ticker": "FBP",
+        "url": "https://finance.yahoo.com/quote/FBP/"
+    },
+    {
+        "ticker": "IIPR",
+        "url": "https://finance.yahoo.com/quote/IIPR/"
+    },
+    {
+        "ticker": "ENV",
+        "url": "https://finance.yahoo.com/quote/ENV/"
+    },
+    {
+        "ticker": "NYCB-PA",
+        "url": "https://finance.yahoo.com/quote/NYCB-PA/"
+    },
+    {
+        "ticker": "DNP",
+        "url": "https://finance.yahoo.com/quote/DNP/"
+    },
+    {
+        "ticker": "UA",
+        "url": "https://finance.yahoo.com/quote/UA/"
+    },
+    {
+        "ticker": "UNF",
+        "url": "https://finance.yahoo.com/quote/UNF/"
+    },
+    {
+        "ticker": "NEA",
+        "url": "https://finance.yahoo.com/quote/NEA/"
+    },
+    {
+        "ticker": "NSP",
+        "url": "https://finance.yahoo.com/quote/NSP/"
+    },
+    {
+        "ticker": "MAC",
+        "url": "https://finance.yahoo.com/quote/MAC/"
+    },
+    {
+        "ticker": "HIW",
+        "url": "https://finance.yahoo.com/quote/HIW/"
+    },
+    {
+        "ticker": "APLE",
+        "url": "https://finance.yahoo.com/quote/APLE/"
+    },
+    {
+        "ticker": "STR",
+        "url": "https://finance.yahoo.com/quote/STR/"
+    },
+    {
+        "ticker": "INST",
+        "url": "https://finance.yahoo.com/quote/INST/"
+    },
+    {
+        "ticker": "MAN",
+        "url": "https://finance.yahoo.com/quote/MAN/"
+    },
+    {
+        "ticker": "GMS",
+        "url": "https://finance.yahoo.com/quote/GMS/"
+    },
+    {
+        "ticker": "CIM-PB",
+        "url": "https://finance.yahoo.com/quote/CIM-PB/"
+    },
+    {
+        "ticker": "ASB",
+        "url": "https://finance.yahoo.com/quote/ASB/"
+    },
+    {
+        "ticker": "GRBK",
+        "url": "https://finance.yahoo.com/quote/GRBK/"
+    },
+    {
+        "ticker": "GHC",
+        "url": "https://finance.yahoo.com/quote/GHC/"
+    },
+    {
+        "ticker": "CIM-PD",
+        "url": "https://finance.yahoo.com/quote/CIM-PD/"
+    },
+    {
+        "ticker": "CDP",
+        "url": "https://finance.yahoo.com/quote/CDP/"
+    },
+    {
+        "ticker": "TBBB",
+        "url": "https://finance.yahoo.com/quote/TBBB/"
+    },
+    {
+        "ticker": "JOE",
+        "url": "https://finance.yahoo.com/quote/JOE/"
+    },
+    {
+        "ticker": "EGO",
+        "url": "https://finance.yahoo.com/quote/EGO/"
+    },
+    {
+        "ticker": "RXO",
+        "url": "https://finance.yahoo.com/quote/RXO/"
+    },
+    {
+        "ticker": "HL",
+        "url": "https://finance.yahoo.com/quote/HL/"
+    },
+    {
+        "ticker": "SG",
+        "url": "https://finance.yahoo.com/quote/SG/"
+    },
+    {
+        "ticker": "CNK",
+        "url": "https://finance.yahoo.com/quote/CNK/"
+    },
+    {
+        "ticker": "PEB-PE",
+        "url": "https://finance.yahoo.com/quote/PEB-PE/"
+    },
+    {
+        "ticker": "YETI",
+        "url": "https://finance.yahoo.com/quote/YETI/"
+    },
+    {
+        "ticker": "SKT",
+        "url": "https://finance.yahoo.com/quote/SKT/"
+    },
+    {
+        "ticker": "SXT",
+        "url": "https://finance.yahoo.com/quote/SXT/"
+    },
+    {
+        "ticker": "DV",
+        "url": "https://finance.yahoo.com/quote/DV/"
+    },
+    {
+        "ticker": "LBRT",
+        "url": "https://finance.yahoo.com/quote/LBRT/"
+    },
+    {
+        "ticker": "SAM",
+        "url": "https://finance.yahoo.com/quote/SAM/"
+    },
+    {
+        "ticker": "GBTG",
+        "url": "https://finance.yahoo.com/quote/GBTG/"
+    },
+    {
+        "ticker": "DOCN",
+        "url": "https://finance.yahoo.com/quote/DOCN/"
+    },
+    {
+        "ticker": "TWO-PB",
+        "url": "https://finance.yahoo.com/quote/TWO-PB/"
+    },
+    {
+        "ticker": "CWT",
+        "url": "https://finance.yahoo.com/quote/CWT/"
+    },
+    {
+        "ticker": "PEB-PF",
+        "url": "https://finance.yahoo.com/quote/PEB-PF/"
+    },
+    {
+        "ticker": "AROC",
+        "url": "https://finance.yahoo.com/quote/AROC/"
+    },
+    {
+        "ticker": "EAT",
+        "url": "https://finance.yahoo.com/quote/EAT/"
+    },
+    {
+        "ticker": "MWA",
+        "url": "https://finance.yahoo.com/quote/MWA/"
+    },
+    {
+        "ticker": "CXT",
+        "url": "https://finance.yahoo.com/quote/CXT/"
+    },
+    {
+        "ticker": "TFPM",
+        "url": "https://finance.yahoo.com/quote/TFPM/"
+    },
+    {
+        "ticker": "CIM-PC",
+        "url": "https://finance.yahoo.com/quote/CIM-PC/"
+    },
+    {
+        "ticker": "CBU",
+        "url": "https://finance.yahoo.com/quote/CBU/"
+    },
+    {
+        "ticker": "BXMT",
+        "url": "https://finance.yahoo.com/quote/BXMT/"
+    },
+    {
+        "ticker": "TWO-PA",
+        "url": "https://finance.yahoo.com/quote/TWO-PA/"
+    },
+    {
+        "ticker": "GVA",
+        "url": "https://finance.yahoo.com/quote/GVA/"
+    },
+    {
+        "ticker": "DEI",
+        "url": "https://finance.yahoo.com/quote/DEI/"
+    },
+    {
+        "ticker": "NPO",
+        "url": "https://finance.yahoo.com/quote/NPO/"
+    },
+    {
+        "ticker": "ATKR",
+        "url": "https://finance.yahoo.com/quote/ATKR/"
+    },
+    {
+        "ticker": "SITC",
+        "url": "https://finance.yahoo.com/quote/SITC/"
+    },
+    {
+        "ticker": "HIMS",
+        "url": "https://finance.yahoo.com/quote/HIMS/"
+    },
+    {
+        "ticker": "HP",
+        "url": "https://finance.yahoo.com/quote/HP/"
+    },
+    {
+        "ticker": "CIM-PA",
+        "url": "https://finance.yahoo.com/quote/CIM-PA/"
+    },
+    {
+        "ticker": "SLVM",
+        "url": "https://finance.yahoo.com/quote/SLVM/"
+    },
+    {
+        "ticker": "OR",
+        "url": "https://finance.yahoo.com/quote/OR/"
+    },
+    {
+        "ticker": "GFF",
+        "url": "https://finance.yahoo.com/quote/GFF/"
+    },
+    {
+        "ticker": "HTGC",
+        "url": "https://finance.yahoo.com/quote/HTGC/"
+    },
+    {
+        "ticker": "AESI",
+        "url": "https://finance.yahoo.com/quote/AESI/"
+    },
+    {
+        "ticker": "NXE",
+        "url": "https://finance.yahoo.com/quote/NXE/"
+    },
+    {
+        "ticker": "NOMD",
+        "url": "https://finance.yahoo.com/quote/NOMD/"
+    },
+    {
+        "ticker": "BSM",
+        "url": "https://finance.yahoo.com/quote/BSM/"
+    },
+    {
+        "ticker": "ESRT",
+        "url": "https://finance.yahoo.com/quote/ESRT/"
+    },
+    {
+        "ticker": "AVA",
+        "url": "https://finance.yahoo.com/quote/AVA/"
+    },
+    {
+        "ticker": "PK",
+        "url": "https://finance.yahoo.com/quote/PK/"
+    },
+    {
+        "ticker": "TNL",
+        "url": "https://finance.yahoo.com/quote/TNL/"
+    },
+    {
+        "ticker": "NVST",
+        "url": "https://finance.yahoo.com/quote/NVST/"
+    },
+    {
+        "ticker": "LXP",
+        "url": "https://finance.yahoo.com/quote/LXP/"
+    },
+    {
+        "ticker": "HAYW",
+        "url": "https://finance.yahoo.com/quote/HAYW/"
+    },
+    {
+        "ticker": "AWR",
+        "url": "https://finance.yahoo.com/quote/AWR/"
+    },
+    {
+        "ticker": "CMBT",
+        "url": "https://finance.yahoo.com/quote/CMBT/"
+    },
+    {
+        "ticker": "ASAN",
+        "url": "https://finance.yahoo.com/quote/ASAN/"
+    },
+    {
+        "ticker": "CON",
+        "url": "https://finance.yahoo.com/quote/CON/"
+    },
+    {
+        "ticker": "RNG",
+        "url": "https://finance.yahoo.com/quote/RNG/"
+    },
+    {
+        "ticker": "CCS",
+        "url": "https://finance.yahoo.com/quote/CCS/"
+    },
+    {
+        "ticker": "GEF-B",
+        "url": "https://finance.yahoo.com/quote/GEF-B/"
+    },
+    {
+        "ticker": "ATHM",
+        "url": "https://finance.yahoo.com/quote/ATHM/"
+    },
+    {
+        "ticker": "WRB-PE",
+        "url": "https://finance.yahoo.com/quote/WRB-PE/"
+    },
+    {
+        "ticker": "CRK",
+        "url": "https://finance.yahoo.com/quote/CRK/"
+    },
+    {
+        "ticker": "GNW",
+        "url": "https://finance.yahoo.com/quote/GNW/"
+    },
+    {
+        "ticker": "GEF",
+        "url": "https://finance.yahoo.com/quote/GEF/"
+    },
+    {
+        "ticker": "AI",
+        "url": "https://finance.yahoo.com/quote/AI/"
+    },
+    {
+        "ticker": "RLJ-PA",
+        "url": "https://finance.yahoo.com/quote/RLJ-PA/"
+    },
+    {
+        "ticker": "KWR",
+        "url": "https://finance.yahoo.com/quote/KWR/"
+    },
+    {
+        "ticker": "HCC",
+        "url": "https://finance.yahoo.com/quote/HCC/"
+    },
+    {
+        "ticker": "ESE",
+        "url": "https://finance.yahoo.com/quote/ESE/"
+    },
+    {
+        "ticker": "CWK",
+        "url": "https://finance.yahoo.com/quote/CWK/"
+    },
+    {
+        "ticker": "PRKS",
+        "url": "https://finance.yahoo.com/quote/PRKS/"
+    },
+    {
+        "ticker": "LCII",
+        "url": "https://finance.yahoo.com/quote/LCII/"
+    },
+    {
+        "ticker": "DFH",
+        "url": "https://finance.yahoo.com/quote/DFH/"
+    },
+    {
+        "ticker": "HBM",
+        "url": "https://finance.yahoo.com/quote/HBM/"
+    },
+    {
+        "ticker": "ASB-PE",
+        "url": "https://finance.yahoo.com/quote/ASB-PE/"
+    },
+    {
+        "ticker": "MANU",
+        "url": "https://finance.yahoo.com/quote/MANU/"
+    },
+    {
+        "ticker": "FHI",
+        "url": "https://finance.yahoo.com/quote/FHI/"
+    },
+    {
+        "ticker": "BFH",
+        "url": "https://finance.yahoo.com/quote/BFH/"
+    },
+    {
+        "ticker": "MFA-PB",
+        "url": "https://finance.yahoo.com/quote/MFA-PB/"
+    },
+    {
+        "ticker": "BUR",
+        "url": "https://finance.yahoo.com/quote/BUR/"
+    },
+    {
+        "ticker": "IFS",
+        "url": "https://finance.yahoo.com/quote/IFS/"
+    },
+    {
+        "ticker": "APAM",
+        "url": "https://finance.yahoo.com/quote/APAM/"
+    },
+    {
+        "ticker": "AMR",
+        "url": "https://finance.yahoo.com/quote/AMR/"
+    },
+    {
+        "ticker": "BKU",
+        "url": "https://finance.yahoo.com/quote/BKU/"
+    },
+    {
+        "ticker": "BBAR",
+        "url": "https://finance.yahoo.com/quote/BBAR/"
+    },
+    {
+        "ticker": "CEIX",
+        "url": "https://finance.yahoo.com/quote/CEIX/"
+    },
+    {
+        "ticker": "NAD",
+        "url": "https://finance.yahoo.com/quote/NAD/"
+    },
+    {
+        "ticker": "TDS",
+        "url": "https://finance.yahoo.com/quote/TDS/"
+    },
+    {
+        "ticker": "TGLS",
+        "url": "https://finance.yahoo.com/quote/TGLS/"
+    },
+    {
+        "ticker": "AHR",
+        "url": "https://finance.yahoo.com/quote/AHR/"
+    },
+    {
+        "ticker": "ATMU",
+        "url": "https://finance.yahoo.com/quote/ATMU/"
+    },
+    {
+        "ticker": "REZI",
+        "url": "https://finance.yahoo.com/quote/REZI/"
+    },
+    {
+        "ticker": "QS",
+        "url": "https://finance.yahoo.com/quote/QS/"
+    },
+    {
+        "ticker": "SID",
+        "url": "https://finance.yahoo.com/quote/SID/"
+    },
+    {
+        "ticker": "NVG",
+        "url": "https://finance.yahoo.com/quote/NVG/"
+    },
+    {
+        "ticker": "TEO",
+        "url": "https://finance.yahoo.com/quote/TEO/"
+    },
+    {
+        "ticker": "JBT",
+        "url": "https://finance.yahoo.com/quote/JBT/"
+    },
+    {
+        "ticker": "BTU",
+        "url": "https://finance.yahoo.com/quote/BTU/"
+    },
+    {
+        "ticker": "CC",
+        "url": "https://finance.yahoo.com/quote/CC/"
+    },
+    {
+        "ticker": "AIN",
+        "url": "https://finance.yahoo.com/quote/AIN/"
+    },
+    {
+        "ticker": "IAG",
+        "url": "https://finance.yahoo.com/quote/IAG/"
+    },
+    {
+        "ticker": "ATGE",
+        "url": "https://finance.yahoo.com/quote/ATGE/"
+    },
+    {
+        "ticker": "OUT",
+        "url": "https://finance.yahoo.com/quote/OUT/"
+    },
+    {
+        "ticker": "ARDT",
+        "url": "https://finance.yahoo.com/quote/ARDT/"
+    },
+    {
+        "ticker": "PRIM",
+        "url": "https://finance.yahoo.com/quote/PRIM/"
+    },
+    {
+        "ticker": "FL",
+        "url": "https://finance.yahoo.com/quote/FL/"
+    },
+    {
+        "ticker": "MPW",
+        "url": "https://finance.yahoo.com/quote/MPW/"
+    },
+    {
+        "ticker": "SDRL",
+        "url": "https://finance.yahoo.com/quote/SDRL/"
+    },
+    {
+        "ticker": "UE",
+        "url": "https://finance.yahoo.com/quote/UE/"
+    },
+    {
+        "ticker": "TDC",
+        "url": "https://finance.yahoo.com/quote/TDC/"
+    },
+    {
+        "ticker": "PAY",
+        "url": "https://finance.yahoo.com/quote/PAY/"
+    },
+    {
+        "ticker": "CPK",
+        "url": "https://finance.yahoo.com/quote/CPK/"
+    },
+    {
+        "ticker": "TRN",
+        "url": "https://finance.yahoo.com/quote/TRN/"
+    },
+    {
+        "ticker": "BTE",
+        "url": "https://finance.yahoo.com/quote/BTE/"
+    },
+    {
+        "ticker": "RLX",
+        "url": "https://finance.yahoo.com/quote/RLX/"
+    },
+    {
+        "ticker": "AMK",
+        "url": "https://finance.yahoo.com/quote/AMK/"
+    },
+    {
+        "ticker": "FCPT",
+        "url": "https://finance.yahoo.com/quote/FCPT/"
+    },
+    {
+        "ticker": "ALTM",
+        "url": "https://finance.yahoo.com/quote/ALTM/"
+    },
+    {
+        "ticker": "SPB",
+        "url": "https://finance.yahoo.com/quote/SPB/"
+    },
+    {
+        "ticker": "CRGY",
+        "url": "https://finance.yahoo.com/quote/CRGY/"
+    },
+    {
+        "ticker": "BAK",
+        "url": "https://finance.yahoo.com/quote/BAK/"
+    },
+    {
+        "ticker": "BOH",
+        "url": "https://finance.yahoo.com/quote/BOH/"
+    },
+    {
+        "ticker": "AAP",
+        "url": "https://finance.yahoo.com/quote/AAP/"
+    },
+    {
+        "ticker": "WLYB",
+        "url": "https://finance.yahoo.com/quote/WLYB/"
+    },
+    {
+        "ticker": "AKO-B",
+        "url": "https://finance.yahoo.com/quote/AKO-B/"
+    },
+    {
+        "ticker": "USAC",
+        "url": "https://finance.yahoo.com/quote/USAC/"
+    },
+    {
+        "ticker": "VAC",
+        "url": "https://finance.yahoo.com/quote/VAC/"
+    },
+    {
+        "ticker": "KNTK",
+        "url": "https://finance.yahoo.com/quote/KNTK/"
+    },
+    {
+        "ticker": "VSH",
+        "url": "https://finance.yahoo.com/quote/VSH/"
+    },
+    {
+        "ticker": "TAC",
+        "url": "https://finance.yahoo.com/quote/TAC/"
+    },
+    {
+        "ticker": "ZGN",
+        "url": "https://finance.yahoo.com/quote/ZGN/"
+    },
+    {
+        "ticker": "COMP",
+        "url": "https://finance.yahoo.com/quote/COMP/"
+    },
+    {
+        "ticker": "WLY",
+        "url": "https://finance.yahoo.com/quote/WLY/"
+    },
+    {
+        "ticker": "AKO-A",
+        "url": "https://finance.yahoo.com/quote/AKO-A/"
+    },
+    {
+        "ticker": "WNS",
+        "url": "https://finance.yahoo.com/quote/WNS/"
+    },
+    {
+        "ticker": "EXG",
+        "url": "https://finance.yahoo.com/quote/EXG/"
+    },
+    {
+        "ticker": "OII",
+        "url": "https://finance.yahoo.com/quote/OII/"
+    },
+    {
+        "ticker": "AKR",
+        "url": "https://finance.yahoo.com/quote/AKR/"
+    },
+    {
+        "ticker": "GPOR",
+        "url": "https://finance.yahoo.com/quote/GPOR/"
+    },
+    {
+        "ticker": "CVI",
+        "url": "https://finance.yahoo.com/quote/CVI/"
+    },
+    {
+        "ticker": "ATS",
+        "url": "https://finance.yahoo.com/quote/ATS/"
+    },
+    {
+        "ticker": "SBSW",
+        "url": "https://finance.yahoo.com/quote/SBSW/"
+    },
+    {
+        "ticker": "BE",
+        "url": "https://finance.yahoo.com/quote/BE/"
+    },
+    {
+        "ticker": "LB",
+        "url": "https://finance.yahoo.com/quote/LB/"
+    },
+    {
+        "ticker": "JPC",
+        "url": "https://finance.yahoo.com/quote/JPC/"
+    },
+    {
+        "ticker": "ABR",
+        "url": "https://finance.yahoo.com/quote/ABR/"
+    },
+    {
+        "ticker": "SPNT",
+        "url": "https://finance.yahoo.com/quote/SPNT/"
+    },
+    {
+        "ticker": "ENOV",
+        "url": "https://finance.yahoo.com/quote/ENOV/"
+    },
+    {
+        "ticker": "HNI",
+        "url": "https://finance.yahoo.com/quote/HNI/"
+    },
+    {
+        "ticker": "MTX",
+        "url": "https://finance.yahoo.com/quote/MTX/"
+    },
+    {
+        "ticker": "NZF",
+        "url": "https://finance.yahoo.com/quote/NZF/"
+    },
+    {
+        "ticker": "INSW",
+        "url": "https://finance.yahoo.com/quote/INSW/"
+    },
+    {
+        "ticker": "PFS",
+        "url": "https://finance.yahoo.com/quote/PFS/"
+    },
+    {
+        "ticker": "CALX",
+        "url": "https://finance.yahoo.com/quote/CALX/"
+    },
+    {
+        "ticker": "CAAP",
+        "url": "https://finance.yahoo.com/quote/CAAP/"
+    },
+    {
+        "ticker": "NXRT",
+        "url": "https://finance.yahoo.com/quote/NXRT/"
+    },
+    {
+        "ticker": "UTF",
+        "url": "https://finance.yahoo.com/quote/UTF/"
+    },
+    {
+        "ticker": "ASAI",
+        "url": "https://finance.yahoo.com/quote/ASAI/"
+    },
+    {
+        "ticker": "MTRN",
+        "url": "https://finance.yahoo.com/quote/MTRN/"
+    },
+    {
+        "ticker": "CRI",
+        "url": "https://finance.yahoo.com/quote/CRI/"
+    },
+    {
+        "ticker": "TRTN-PA",
+        "url": "https://finance.yahoo.com/quote/TRTN-PA/"
+    },
+    {
+        "ticker": "BANC",
+        "url": "https://finance.yahoo.com/quote/BANC/"
+    },
+    {
+        "ticker": "VGR",
+        "url": "https://finance.yahoo.com/quote/VGR/"
+    },
+    {
+        "ticker": "AVAL",
+        "url": "https://finance.yahoo.com/quote/AVAL/"
+    },
+    {
+        "ticker": "ARCH",
+        "url": "https://finance.yahoo.com/quote/ARCH/"
+    },
+    {
+        "ticker": "NABL",
+        "url": "https://finance.yahoo.com/quote/NABL/"
+    },
+    {
+        "ticker": "CSTM",
+        "url": "https://finance.yahoo.com/quote/CSTM/"
+    },
+    {
+        "ticker": "ADX",
+        "url": "https://finance.yahoo.com/quote/ADX/"
+    },
+    {
+        "ticker": "MIR",
+        "url": "https://finance.yahoo.com/quote/MIR/"
+    },
+    {
+        "ticker": "AIR",
+        "url": "https://finance.yahoo.com/quote/AIR/"
+    },
+    {
+        "ticker": "AZZ",
+        "url": "https://finance.yahoo.com/quote/AZZ/"
+    },
+    {
+        "ticker": "VTMX",
+        "url": "https://finance.yahoo.com/quote/VTMX/"
+    },
+    {
+        "ticker": "TGNA",
+        "url": "https://finance.yahoo.com/quote/TGNA/"
+    },
+    {
+        "ticker": "CDLR",
+        "url": "https://finance.yahoo.com/quote/CDLR/"
+    },
+    {
+        "ticker": "NEP",
+        "url": "https://finance.yahoo.com/quote/NEP/"
+    },
+    {
+        "ticker": "NSA-PA",
+        "url": "https://finance.yahoo.com/quote/NSA-PA/"
+    },
+    {
+        "ticker": "DBRG",
+        "url": "https://finance.yahoo.com/quote/DBRG/"
+    },
+    {
+        "ticker": "ENR",
+        "url": "https://finance.yahoo.com/quote/ENR/"
+    },
+    {
+        "ticker": "CXM",
+        "url": "https://finance.yahoo.com/quote/CXM/"
+    },
+    {
+        "ticker": "VSTO",
+        "url": "https://finance.yahoo.com/quote/VSTO/"
+    },
+    {
+        "ticker": "VZIO",
+        "url": "https://finance.yahoo.com/quote/VZIO/"
+    },
+    {
+        "ticker": "KSS",
+        "url": "https://finance.yahoo.com/quote/KSS/"
+    },
+    {
+        "ticker": "XPRO",
+        "url": "https://finance.yahoo.com/quote/XPRO/"
+    },
+    {
+        "ticker": "YELP",
+        "url": "https://finance.yahoo.com/quote/YELP/"
+    },
+    {
+        "ticker": "HBI",
+        "url": "https://finance.yahoo.com/quote/HBI/"
+    },
+    {
+        "ticker": "BHC",
+        "url": "https://finance.yahoo.com/quote/BHC/"
+    },
+    {
+        "ticker": "FBK",
+        "url": "https://finance.yahoo.com/quote/FBK/"
+    },
+    {
+        "ticker": "SITC-PA",
+        "url": "https://finance.yahoo.com/quote/SITC-PA/"
+    },
+    {
+        "ticker": "RNST",
+        "url": "https://finance.yahoo.com/quote/RNST/"
+    },
+    {
+        "ticker": "ETY",
+        "url": "https://finance.yahoo.com/quote/ETY/"
+    },
+    {
+        "ticker": "CNMD",
+        "url": "https://finance.yahoo.com/quote/CNMD/"
+    },
+    {
+        "ticker": "KGS",
+        "url": "https://finance.yahoo.com/quote/KGS/"
+    },
+    {
+        "ticker": "HI",
+        "url": "https://finance.yahoo.com/quote/HI/"
+    },
+    {
+        "ticker": "PTY",
+        "url": "https://finance.yahoo.com/quote/PTY/"
+    },
+    {
+        "ticker": "WOR",
+        "url": "https://finance.yahoo.com/quote/WOR/"
+    },
+    {
+        "ticker": "GOF",
+        "url": "https://finance.yahoo.com/quote/GOF/"
+    },
+    {
+        "ticker": "CDE",
+        "url": "https://finance.yahoo.com/quote/CDE/"
+    },
+    {
+        "ticker": "ENVA",
+        "url": "https://finance.yahoo.com/quote/ENVA/"
+    },
+    {
+        "ticker": "EQC",
+        "url": "https://finance.yahoo.com/quote/EQC/"
+    },
+    {
+        "ticker": "TR",
+        "url": "https://finance.yahoo.com/quote/TR/"
+    },
+    {
+        "ticker": "THS",
+        "url": "https://finance.yahoo.com/quote/THS/"
+    },
+    {
+        "ticker": "EPAC",
+        "url": "https://finance.yahoo.com/quote/EPAC/"
+    },
+    {
+        "ticker": "ALG",
+        "url": "https://finance.yahoo.com/quote/ALG/"
+    },
+    {
+        "ticker": "EVTC",
+        "url": "https://finance.yahoo.com/quote/EVTC/"
+    },
+    {
+        "ticker": "MP",
+        "url": "https://finance.yahoo.com/quote/MP/"
+    },
+    {
+        "ticker": "GDV",
+        "url": "https://finance.yahoo.com/quote/GDV/"
+    },
+    {
+        "ticker": "SRG-PA",
+        "url": "https://finance.yahoo.com/quote/SRG-PA/"
+    },
+    {
+        "ticker": "KOS",
+        "url": "https://finance.yahoo.com/quote/KOS/"
+    },
+    {
+        "ticker": "ERO",
+        "url": "https://finance.yahoo.com/quote/ERO/"
+    },
+    {
+        "ticker": "LXP-PC",
+        "url": "https://finance.yahoo.com/quote/LXP-PC/"
+    },
+    {
+        "ticker": "OFG",
+        "url": "https://finance.yahoo.com/quote/OFG/"
+    },
+    {
+        "ticker": "FIHL",
+        "url": "https://finance.yahoo.com/quote/FIHL/"
+    },
+    {
+        "ticker": "BKE",
+        "url": "https://finance.yahoo.com/quote/BKE/"
+    },
+    {
+        "ticker": "AMBP",
+        "url": "https://finance.yahoo.com/quote/AMBP/"
+    },
+    {
+        "ticker": "HTH",
+        "url": "https://finance.yahoo.com/quote/HTH/"
+    },
+    {
+        "ticker": "SWI",
+        "url": "https://finance.yahoo.com/quote/SWI/"
+    },
+    {
+        "ticker": "ZIM",
+        "url": "https://finance.yahoo.com/quote/ZIM/"
+    },
+    {
+        "ticker": "GRND",
+        "url": "https://finance.yahoo.com/quote/GRND/"
+    },
+    {
+        "ticker": "AAT",
+        "url": "https://finance.yahoo.com/quote/AAT/"
+    },
+    {
+        "ticker": "SHO",
+        "url": "https://finance.yahoo.com/quote/SHO/"
+    },
+    {
+        "ticker": "TROX",
+        "url": "https://finance.yahoo.com/quote/TROX/"
+    },
+    {
+        "ticker": "SAH",
+        "url": "https://finance.yahoo.com/quote/SAH/"
+    },
+    {
+        "ticker": "NATL",
+        "url": "https://finance.yahoo.com/quote/NATL/"
+    },
+    {
+        "ticker": "HG",
+        "url": "https://finance.yahoo.com/quote/HG/"
+    },
+    {
+        "ticker": "STC",
+        "url": "https://finance.yahoo.com/quote/STC/"
+    },
+    {
+        "ticker": "MBC",
+        "url": "https://finance.yahoo.com/quote/MBC/"
+    },
+    {
+        "ticker": "RSI",
+        "url": "https://finance.yahoo.com/quote/RSI/"
+    },
+    {
+        "ticker": "IVR-PB",
+        "url": "https://finance.yahoo.com/quote/IVR-PB/"
+    },
+    {
+        "ticker": "ASPN",
+        "url": "https://finance.yahoo.com/quote/ASPN/"
+    },
+    {
+        "ticker": "PHIN",
+        "url": "https://finance.yahoo.com/quote/PHIN/"
+    },
+    {
+        "ticker": "SXI",
+        "url": "https://finance.yahoo.com/quote/SXI/"
+    },
+    {
+        "ticker": "MCW",
+        "url": "https://finance.yahoo.com/quote/MCW/"
+    },
+    {
+        "ticker": "CCU",
+        "url": "https://finance.yahoo.com/quote/CCU/"
+    },
+    {
+        "ticker": "AGM",
+        "url": "https://finance.yahoo.com/quote/AGM/"
+    },
+    {
+        "ticker": "IVR-PC",
+        "url": "https://finance.yahoo.com/quote/IVR-PC/"
+    },
+    {
+        "ticker": "AMN",
+        "url": "https://finance.yahoo.com/quote/AMN/"
+    }
+]
